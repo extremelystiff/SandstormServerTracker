@@ -1,6 +1,3 @@
-# SandstormServerTracker
-
-
 # UE4 Player Tracker
 
 ## Description
@@ -21,9 +18,13 @@ UE4 Player Tracker is a powerful tool designed for server administrators and ent
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/ue4-player-tracker.git
+   git clone https://github.com/extremelystiff/SandstormServerTracker.git
    ```
-2. Install the required Python packages:
+2. Navigate to the project directory:
+   ```
+   cd SandstormServerTracker
+   ```
+3. Install the required Python packages:
    ```
    pip install -r requirements.txt
    ```
